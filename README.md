@@ -64,4 +64,4 @@ Confusion matrix on the test set (137 rows):
 
 
 ## Author
-[Your name] | [Your LinkedIn link]
+[Muhammad Moosa khan] | [https://www.linkedin.com/in/muhammad-moosa-khan-b96563261]
